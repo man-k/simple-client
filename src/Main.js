@@ -4,6 +4,7 @@ import { Query } from 'react-apollo'
 
 import { query_main } from './graphql/schema'
 
+
 class Main extends React.Component
 {
   render()
